@@ -3,6 +3,10 @@ body{
     background-color: #f2dfd3;
 }
 
+iframe {
+    width: 100%;
+}
+
 .coluna {
     position: relative;
     column-count: 2;
